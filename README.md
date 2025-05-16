@@ -60,7 +60,11 @@ All these specialized tools are developed and maintained by [**GetInfoToYou**](h
 
 ## 📚 Resources & Tutorials
 
-Check out our [Wiki](https://github.com/getinfotoyou/professional-web-tools/wiki) for detailed tutorials on how to use each tool effectively.
+Check out our detailed guides for more information about our tools:
+
+- [**Image Processing Tools**](./tools/image-tools.md) - Detailed overview of our image optimization and conversion tools
+- [**Financial Planning Tools**](./tools/financial-tools.md) - Comprehensive guide to our financial calculators and planning tools
+- [**Content Creation & Productivity**](./tools/content-productivity-tools.md) - In-depth exploration of our content and productivity tools
 
 ## 🤝 Contributing
 
@@ -68,7 +72,7 @@ We welcome contributions to this collection! If you have suggestions for adding 
 
 ## 📄 License
 
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License.
 
 ---
 
