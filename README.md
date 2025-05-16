@@ -60,7 +60,7 @@ All these specialized tools are developed and maintained by [**GetInfoToYou**](h
 
 ## 📚 Resources & Tutorials
 
-Check out our [Wiki](https://github.com/getinfotoyou/getinfotoyou-professional-web-tools/wiki) for detailed tutorials on how to use each tool effectively.
+Check out our [Wiki](https://github.com/getinfotoyou/professional-web-tools/wiki) for detailed tutorials on how to use each tool effectively.
 
 ## 🤝 Contributing
 
